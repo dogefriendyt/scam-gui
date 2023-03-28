@@ -1,4 +1,4 @@
-me:GetService("StarterGui"):SetCore("SendNotification",{
+game:GetService("StarterGui"):SetCore("SendNotification",{
                 Title = "Notification";
                 Text = "Silly Billy's scam gui has now started.";
                 Duration = 1.5;})
