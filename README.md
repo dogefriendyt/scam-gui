@@ -1,6 +1,6 @@
 # scam-gui
 
-**- Features**
+**Features:**
 
 ⋅ Booth Scam
 ⋅ Booth Sniper
